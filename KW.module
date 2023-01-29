@@ -3,7 +3,7 @@
 #!desc=酷我音乐会员
 
 [Script]
-酷我音乐会员解锁=type=http-response,pattern=^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).*,requires-body=1,script-path=https://github.com/itcast-l/shadowrocket-module/blob/main/js/KW.js
+酷我音乐会员解锁=type=http-response,pattern=^https?:\/\/.*\.(kuwo|lrts)\.(cn|me)\/(a\.p|music\.pay|(vip\/(v2|enc)\/(theme|user\/vip))|(EcomResource|(Mobile)?Ad)Serv(er|ice)).*,requires-body=1,script-path=https://github.com/itcast-l/shadowrocket-module/raw/main/js/KW.js
 
 [MITM]
 hostname = %APPEND% *.kuwo.cn, *.lrts.me
