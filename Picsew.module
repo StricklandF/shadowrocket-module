@@ -1,0 +1,12 @@
+#!name=Picsew解锁专业版
+#!desc=Picsew解锁专业版
+#软件版本:3.9.4
+#脚本作者:Luyc
+#更新时间:2022-10-14
+#使用声明：️仅供学习交流，🈲️商业用途
+
+[Script]
+Picsew解锁专业版 = type=http-response,pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/PicsewProCrack.js
+
+[MITM]
+hostname= %APPEND% buy.itunes.apple.com
