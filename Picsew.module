@@ -7,7 +7,7 @@
 #使用声明：️仅供学习交流，🈲️商业用途
 
 [Script]
-Picsew解锁订阅 = type=http-response,pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/PicsewProCrack.js
+Picsew解锁订阅 = type=http-response,pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=1,max-size=0,script-path=https://github.com/itcast-l/shadowrocket-module/blob/main/js/Picsew.js
 
 [MITM]
 hostname= %APPEND% buy.itunes.apple.com
