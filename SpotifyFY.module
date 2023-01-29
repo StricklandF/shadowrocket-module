@@ -7,4 +7,4 @@
 
 [Script]
 # 修改下方argument中的appid和securityKey,填入自己的appid和密钥
-spotify歌词翻译 = type=http-response,pattern=^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/,requires-body=1,binary-body-mode=1,max-size=0,script-path=https://github.com/itcast-l/shadowrocket-module/blob/main/js/SpotifyFY.js,argument=appid=123&securityKey=321
+spotify歌词翻译 = type=http-response,pattern=^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/,requires-body=1,binary-body-mode=1,max-size=0,script-path=https://github.com/itcast-l/shadowrocket-module/raw/main/js/SpotifyFY.js,argument=appid=123&securityKey=321
