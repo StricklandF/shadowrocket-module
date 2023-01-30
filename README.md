@@ -16,3 +16,5 @@ B站高清画质：https://raw.githubusercontent.com/itcast-l/shadowrocket-modul
 Youtube去除广告：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/youtube.module
 
 Adguard解锁订阅：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Adguard.module
+
+TikTok免拔卡：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Tiktok.module
