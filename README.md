@@ -1,3 +1,6 @@
+
+Tg：https://t.me/it_cast
+
 用于收集个人自用shadowrocket脚本模块
  
 酷我音乐 ： https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/KW.module
