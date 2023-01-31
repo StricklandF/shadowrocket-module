@@ -18,3 +18,5 @@ Youtube去除广告：https://raw.githubusercontent.com/itcast-l/shadowrocket-mo
 Adguard解锁订阅：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Adguard.module
 
 TikTok免拔卡：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Tiktok.module
+
+百度云画质解锁：https://github.com/itcast-l/shadowrocket-module/blob/main/BaiduYun.module
