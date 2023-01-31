@@ -1,0 +1,15 @@
+#!url=https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/BaiduYun.module
+#!name=百度云高清画质
+#!desc=百度云高清画质
+#脚本功能:解锁百度云高清画质
+#更新时间:2023-01-31
+#使用声明：️仅供学习交流，🈲️商业用途
+
+
+[Script]
+百度云高清画质
+百度云高清画质 = type=http-response,pattern=https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/membership\/user,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/js/Baiduyun.js
+
+[MITM]
+hostname= %APPEND% pan.baidu.com
+
