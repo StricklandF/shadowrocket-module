@@ -19,4 +19,4 @@ Adguard解锁订阅：https://raw.githubusercontent.com/itcast-l/shadowrocket-mo
 
 TikTok免拔卡：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Tiktok.module
 
-百度云画质解锁：https://github.com/itcast-l/shadowrocket-module/blob/main/BaiduYun.module
+百度云画质解锁：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/BaiduYun.module
