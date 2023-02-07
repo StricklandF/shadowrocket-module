@@ -2,6 +2,7 @@
 #!desc=ColorWidget解锁
 #更新时间:2023-02-07
 #群组：https://t.me/it_cast
+#使用说明：先打开app，再启用模块，点击恢复订阅，即可使用
 [Script]
 Colorful—Widget+解锁订阅 = type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/js/colorWidget.js
 
