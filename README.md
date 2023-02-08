@@ -23,5 +23,7 @@ TikTok免拔卡：https://raw.githubusercontent.com/itcast-l/shadowrocket-module
 
 Colorful-Widget订阅：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/ColorWidget
 
+Nicegram会员：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Nicegram.module
+
 使用教程：
  复制上面链接，打开小火箭-配置-模块，点击右上角的加号，把链接复制进去点击下载，把你的全局路由切换到配置，即可启用该脚本。
