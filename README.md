@@ -3,7 +3,7 @@ Tg：https://t.me/it_cast
 
 用于收集个人自用shadowrocket脚本模块
  
-酷我音乐 ： https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/KW.module
+酷我音乐(注：已不再支持10.0以上版本，使用请降到旧版) ： https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/KW.module
 
 Picsew ：  https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/Picsew.module
 
