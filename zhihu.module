@@ -1,0 +1,13 @@
+#!name=知乎 盐故事+知识+书刊+去部分广告
+#!desc=知乎 盐故事+知识+书刊+去部分广告
+#软件版本:所有 
+#脚本作者:伟人
+#更新时间:2023-02-19
+#使用声明：️此脚本仅供学习与交流，请勿转载与贩卖！️️️
+
+[Script]
+知乎 盐故事+知识+书刊+去部分广告
+直免费下去。还希望支持我。 = type=http-response,pattern=^http[s]?:\/\/api\.zhihu\.com\/(people\/self|unlimited\/go\/my_card|sku\/reversion_sku_ext).*$,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/js/zhihu.js
+
+[MITM]
+hostname= %APPEND% *1*1*,125.77.176*,27.148*,183.204*,122.224*,60.188.72*,120.220*,120.222*,103.41.167.236,150.109.91*,*.zhihu.*
