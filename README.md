@@ -29,5 +29,7 @@ Keep 订阅视频：https://raw.githubusercontent.com/itcast-l/shadowrocket-modu
 
 网易云Vip(未测试)：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/NetEase.module
 
+知乎盐选：https://raw.githubusercontent.com/itcast-l/shadowrocket-module/main/zhihu.module
+
 使用教程：
  复制上面链接，打开小火箭-配置-模块，点击右上角的加号，把链接复制进去点击下载，把你的全局路由切换到配置，即可启用该脚本。
